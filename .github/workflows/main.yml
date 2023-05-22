@@ -18,8 +18,6 @@ jobs:
         sudo -n apt-get upgrade -y patch autoconf automake diffutils pkgconf fakeroot git file tar bzip2 zstd
         sudo -n dkp-pacman --noconfirm -U \
           "https://wii.leseratte10.de/devkitPro/other-stuff/dkp-toolchain-vars-1.0.2-1-any.pkg.tar.xz"
-        sudo -n dkp-pacman --noconfirm -S switch-curl switch-freetype switch-libjpeg-turbo switch-libjson-c \
-          switch-libpng switch-libwebp switch-sdl2 switch-sdl2_gfx switch-sdl2_image switch-zlib
 
     - name: Silence all git safe directory warnings
       run: git config --system --add safe.directory '*'
