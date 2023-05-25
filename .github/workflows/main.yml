@@ -3,7 +3,7 @@ name: Build JKSV
 on: [push, pull_request]
 
 jobs:
-  Goldleaf:
+  JKSV:
     runs-on: ubuntu-latest
     container: devkitpro/devkita64:latest
 
