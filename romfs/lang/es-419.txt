@@ -1,4 +1,5 @@
 author = 0, "NULL"
+appletModeWarning = 0, "*ADVERTENCIA*: Está ejecutando JKSV en modo subprograma. Ciertas funciones pueden no funcionar."
 confirmBlacklist = 0, "¿Estás seguro que deseas adicionar #%s# a la lista negra?"
 confirmCopy = 0, "¿Seguro que desea copiar #%s# a #%s#?"
 confirmCreateAllSaveData = 0, "¿Seguro que desea crear respaldo de todas las partidas guardadas en el sistema para #%s#? ¡Puede tomar un tiempo dependiendo de la cantidad de títulos!"

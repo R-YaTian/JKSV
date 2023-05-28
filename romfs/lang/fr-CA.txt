@@ -1,4 +1,5 @@
 author = 0, "NULL"
+appletModeWarning = 0, "*ATTENTION* : Vous exécutez JKSV en mode applet. Certaines fonctions peuvent ne pas fonctionner."
 confirmBlacklist = 0, "Are you sure you want to add #%s# to your blacklist?"
 confirmCopy = 0, "Are you sure you want to copy #%s# to #%s#?"
 confirmCreateAllSaveData = 0, "Are you sure you would like to create all save data on this system for #%s#? This can take a while depending on how many titles are found."

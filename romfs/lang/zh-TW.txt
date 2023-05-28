@@ -1,4 +1,5 @@
 author = 0, "Leo"
+appletModeWarning = 0, "*警告*：您正在小程序模式下運行JKSV。某些功能可能無法工作。"
 confirmBlacklist = 0, "是否確定要將#%s#加入黑名單?"
 confirmCopy = 0, "是否確定要將#%s#複製到#%s#?"
 confirmCreateAllSaveData = 0, "是否確定要複製系統內所有遊戲進度並新增到使用者#%s#帳號內? 完成此操作的等待時間將取決於系統內的遊戲進度檔案數量."

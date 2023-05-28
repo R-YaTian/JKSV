@@ -1,4 +1,5 @@
-author = 0, "NULL"
+author = 0, "zdm65477730"
+appletModeWarning = 0, "*警告*：您正在小程序模式下运行JKSV。某些功能可能无法工作。"
 confirmBlacklist = 0, "是否确定要将#%s#添加到您的黑名单中？"
 confirmCopy = 0, "是否确定要将#%s#复制到#%s#？"
 confirmCreateAllSaveData = 0, "是否确定要在此系统上为#%s#创建所有存档数据？这可能需要一些时间，具体取决于找到的Title的数量。"

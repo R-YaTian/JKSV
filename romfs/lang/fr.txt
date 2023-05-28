@@ -1,4 +1,5 @@
 author = 0, "Shadow2560"
+appletModeWarning = 0, "*ATTENTION* : Vous exécutez JKSV en mode applet. Certaines fonctions peuvent ne pas fonctionner."
 confirmBlacklist = 0, "Souhaitez-vous vraiment ajouter #%s# à votre liste noire?"
 confirmCopy = 0, "Souhaitez-vous vraiment copier #%s# vers #%s#?"
 confirmCreateAllSaveData = 0, "Souhaitez-vous vraiment créer toutes les données de sauvegarde de ce système pour #%s# ? Cela peut prendre un certain temps en fonction du nombre de titres trouvés."
