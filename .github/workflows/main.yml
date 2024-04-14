@@ -24,7 +24,7 @@ jobs:
 
     - name: Checkout latest libnx commit
       run: |
-        git clone --recurse-submodules https://github.com/switchbrew/libnx.git
+        git clone --recurse-submodules https://github.com/R-YaTian/libnx.git
 
     - name: Set workspace permissions
       run: chmod 777 -R "$GITHUB_WORKSPACE"
