@@ -1,4 +1,5 @@
 author = 0, "SimoCasa"
+appletModeWarning = 0, "*ATTENZIONE*: stai eseguendo JKSV in modalità applet. Alcune funzioni potrebbero non funzionare."
 confirmBlacklist = 0, "Sei sicuro di voler aggiungere #%s# alla tua blacklist?"
 confirmCopy = 0, "Sei sicuro di voler copiare #%s# in #%s#?"
 confirmCreateAllSaveData = 0, "Sei sicuro di voler creare tutti i dati di salvataggio su questo sistema per #%s#? Questo può richiedere diverso tempo a seconda dei titoli trovati."
