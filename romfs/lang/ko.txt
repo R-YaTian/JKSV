@@ -1,4 +1,5 @@
 author = 0, "NULL"
+appletModeWarning = 0, "*경고*: 애플릿 모드에서 JKSV를 실행하고 있습니다. 특정 기능이 작동하지 않을 수 있습니다."
 confirmBlacklist = 0, "블랙리스트에 #%s#을(를) 추가하겠습니까?"
 confirmCopy = 0, "#%s#을(를) #%s#에 복사하겠습니까?"
 confirmCreateAllSaveData = 0, "이 시스템에서 #%s#에 대한 모든 저장 데이터를 생성하겠습니까? 검색된 타이틀 수에 따라 시간이 걸릴 수 있습니다."

@@ -38,7 +38,7 @@ INCLUDES	:=	inc inc/ui inc/fs inc/gfx
 EXEFS_SRC	:=	exefs_src
 APP_TITLE   :=  JKSV
 APP_AUTHOR  :=  JK
-APP_VERSION :=  11.5.2024
+APP_VERSION :=  11.05.2024
 ROMFS	    :=	romfs
 ICON		:=	icon.jpg
 
@@ -51,7 +51,7 @@ override CFLAGS	+=	$(INCLUDE) -D__SWITCH__
 override CFLAGS += 	`sdl2-config --cflags` `freetype-config --cflags` `curl-config --cflags`
 override CFLAGS	+=	-g -Wall -O2 -ffunction-sections -ffast-math $(ARCH) $(DEFINES)
 
-CXXFLAGS:= $(CFLAGS) -fno-rtti -fno-exceptions -std=gnu++17
+CXXFLAGS:= $(CFLAGS) -fno-rtti -fno-exceptions -std=gnu++23
 
 ASFLAGS	:=	-g $(ARCH)
 LDFLAGS	=	-specs=$(DEVKITPRO)/libnx/switch.specs -g $(ARCH) -Wl,-Map,$(notdir $*.map)
